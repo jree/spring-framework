@@ -27,7 +27,7 @@ import org.junit.rules.ExpectedException;
  *
  * @author Phillip Webb
  */
-public class Matchers {
+public class matchers {
 
 	/**
 	 * Create a matcher that wrapps the specified matcher and tests against the
